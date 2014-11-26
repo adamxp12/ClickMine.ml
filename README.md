@@ -3,4 +3,6 @@ ClickMine.ml
 
 ClickMine Website
 
-Will move the ClickMine site here shortly
+This is the location of the ClickMine website
+
+it is currently a simple coming soon page
