@@ -1,2 +1,3 @@
-Something is wrong here
-====
+Beta Site for ClickMine.ml
+================
+

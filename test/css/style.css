@@ -1,0 +1,78 @@
+body {
+  background: #F7F7F7;
+}
+
+/* Not sure if this break responsive design, but looks better ;) */
+
+.panels {
+    max-width: 63.5rem;
+}
+
+
+/* menu and header */
+.main-menu {
+  background: none repeat scroll 0% 0% #F5D316;
+  height: 85px;
+  line-height: 85px;
+}
+.main-menu .title-area, .main-menu .name, .main-menu .name h1 {
+  height: inherit;
+  line-height: 85px;
+  font-size: 1.5925rem;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.main-menu-section li:not(.has-form) a:not(.button) {
+    padding: 0px 15px;
+    line-height: 85px;
+    background: none repeat scroll 0% 0% #F5CC16;
+    height: 85px;
+    font-family: 'Oxygen', sans-serif;
+}
+/* End menu and header */
+
+/* Heading */
+
+h1, h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.title-h1 {
+  color: #DBDBDB;
+  font-weight: 300;
+}
+/* End Heading */
+
+/* Button */
+.button {
+  background-color: #F5B616;
+  border-color: #F5B616;
+}
+.button:hover {
+  background-color: #F5CC16;
+  border-color: #F5CC16;
+}
+
+/* End Button */
+
+/* Some utility classes */
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-round {
+  width: 300px;
+  height: 220px;
+  border-radius: 50%;
+  background: rgba(20, 20, 20, 0.2);
+  border: 5px solid rgba(20, 20, 20, 0.2);
+}
+
+.space {
+  margin-top: 25px;
+}
+
+.status {
+  list-style: none;
+}
