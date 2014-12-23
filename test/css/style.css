@@ -2,13 +2,6 @@ body {
   background: #F7F7F7;
 }
 
-/* Not sure if this break responsive design, but looks better ;) */
-
-.panels {
-    max-width: 63.5rem;
-}
-
-
 /* menu and header */
 .main-menu {
   background: none repeat scroll 0% 0% #F5D316;
