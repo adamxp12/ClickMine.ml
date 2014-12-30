@@ -4,7 +4,7 @@ body {
 
 /* menu and header */
 .main-menu {
-  background: none repeat scroll 0% 0% #F5D316;
+  background: none repeat scroll 0% 0% #71B41D;
   height: 85px;
   line-height: 85px;
 }
@@ -18,7 +18,7 @@ body {
 .main-menu-section li:not(.has-form) a:not(.button) {
     padding: 0px 15px;
     line-height: 85px;
-    background: none repeat scroll 0% 0% #F5CC16;
+    background: none repeat scroll 0% 0% #64A118;
     height: 85px;
     font-family: 'Oxygen', sans-serif;
 }
@@ -37,12 +37,12 @@ h1, h4 {
 
 /* Button */
 .button {
-  background-color: #F5B616;
-  border-color: #F5B616;
+  background-color: #64A118;
+  border-color: #64A118;
 }
 .button:hover {
-  background-color: #F5CC16;
-  border-color: #F5CC16;
+  background-color: #71B41D;
+  border-color: #71B41D;
 }
 
 /* End Button */
