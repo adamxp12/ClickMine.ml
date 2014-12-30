@@ -11,7 +11,7 @@ body {
     top: -85px;
     /*padding-top: 160px;*/
     overflow: hidden;
-    height: 85%;
+    height: 90%;
 }
 
 .header-img .container {
@@ -31,7 +31,11 @@ body {
   color: rgba(255,255,255,0.8);
 }
 
-
+.header-img h3 {
+  font-size: 25px;
+  font-weight: 300;
+  color: rgba(255,255,255,0.8);
+}
 
 /* menu and header */
 .main-menu {
