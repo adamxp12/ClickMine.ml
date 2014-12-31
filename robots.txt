@@ -2,4 +2,8 @@ User-agent: googlebot-image
 Disallow: /
 
 User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /version/
 Disallow: /test/
