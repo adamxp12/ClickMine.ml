@@ -15,7 +15,7 @@ body {
 /* Header image */
 
 .header-img {
-    background: url('img/blurnew.jpg') no-repeat;
+    background: url('img/header-light.jpg') no-repeat;
     background-size: cover;
     background-position: top;
     position: relative;
@@ -23,6 +23,12 @@ body {
     /*padding-top: 160px;*/
     overflow: hidden;
     height: 90%;
+}
+
+.dark {
+    background: url('img/header-dark.jpg') no-repeat;
+    background-size: cover;
+    background-position: top;
 }
 
 .header-img .container {
