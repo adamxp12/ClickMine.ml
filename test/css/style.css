@@ -8,7 +8,10 @@ body {
   height: 100%;
 }
 
-
+.container-page {
+  position: relative;
+  top: -50px;
+}
 /* Header image */
 
 .header-img {
@@ -44,6 +47,10 @@ body {
   font-size: 25px;
   font-weight: 300;
   color: rgba(255,255,255,0.8);
+}
+
+.header-small {
+  height: 45%;
 }
 
 /* End Header image
