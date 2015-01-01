@@ -7,6 +7,12 @@ var sheadline = document.getElementById("sheadline");
 var subheadline = document.getElementById("subheadline");
 var ssubheadline = document.getElementById("ssubheadline");
 
+// if (h >= 18) {
+//     header.classList.add("dark");
+// } else if (h <= 6) {
+//   header.classList.add("dark");
+// }
+header.classList.add("dark");
 
 if (m == 11) {
   if (d == 24 || d == 25 || d == 26) { //It is Christmas 
@@ -25,9 +31,3 @@ if (m == 0) {
   }
 }
 
-// if (h >= 18) {
-//     header.classList.add("dark");
-// } else if (h <= 6) {
-//   header.classList.add("dark");
-// }
-header.classList.add("dark");

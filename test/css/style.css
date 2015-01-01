@@ -31,6 +31,25 @@ body {
     background-position: top;
 }
 
+.gaming {
+  background: url('img/header-gaming.jpg') no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.green {
+  background: rgba(113, 180, 29, 1);
+  width: 100%;
+  color: #fff !important;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+.green h1 {
+  color: #fff;
+}
 .header-img .container {
  top: 30%;
  position: relative;
@@ -121,6 +140,21 @@ h1, h2 , h4 {
 }
 
 /* End Button */
+
+
+/* Custom Labels */
+
+.label.subscribe {
+  background-color: #FFC246;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.label.subscribe:hover {
+  color: rgba(100, 100, 100, 1);
+}
+
+/* End Custom Labels */
 
 
 /* Some utility classes */
